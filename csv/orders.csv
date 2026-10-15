@@ -1,0 +1,7 @@
+OrderID,CustomerID,StaffID,OrderDate,OrderStatus
+1001,1,102,2026-09-01,Completed
+1002,2,104,2026-09-01,Completed
+1003,3,102,2026-09-02,Pending
+1004,4,104,2026-09-02,Completed
+1005,1,102,2026-09-03,Cancelled
+1006,5,104,2026-09-03,Completed

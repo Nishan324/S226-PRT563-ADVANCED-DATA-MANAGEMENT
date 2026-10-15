@@ -1,0 +1,10 @@
+MenuItemID,CategoryID,ItemName,Description,Price,Availability
+201,1,Garlic Bread,Toasted bread with garlic butter,9.5,Available
+202,1,Spring Rolls,Vegetable spring rolls with dipping sauce,12.0,Available
+203,2,Grilled Chicken,Grilled chicken served with vegetables,24.5,Available
+204,2,Seafood Pasta,Pasta with prawns and creamy sauce,28.0,Available
+205,2,Vegetable Burger,Vegetable patty with salad and chips,19.5,Available
+206,3,Chocolate Cake,Chocolate cake with vanilla ice cream,13.0,Available
+207,3,Cheesecake,Baked cheesecake with berry sauce,14.5,Unavailable
+208,4,Fresh Juice,Freshly prepared orange juice,7.5,Available
+209,4,Coffee,Barista-made coffee,5.0,Available

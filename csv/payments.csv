@@ -1,0 +1,7 @@
+PaymentID,OrderID,Amount,PaymentDate,PaymentMethod,PaymentStatus
+5001,1001,73.5,2026-09-01,Card,Paid
+5002,1002,50.0,2026-09-01,Cash,Paid
+5003,1003,27.0,2026-09-02,Online,Pending
+5004,1004,50.5,2026-09-02,Card,Paid
+5005,1005,9.5,2026-09-03,Online,Refunded
+5006,1006,46.0,2026-09-03,Card,Paid
